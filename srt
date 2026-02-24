@@ -1,0 +1,148 @@
+
+<section class="row">
+    <div class="col-md-4 ">
+        <div class="card shadow">
+            <div class="card-header bg-info text-light">
+                <h6>SRT Hellcat</h6>
+            </div>
+            <div class="card-body">
+                <img src="images/srt_hellcat.png" alt="SRT Hellcat" width="100%" height="300px">
+            </div>
+            <div class="card-footer">
+                <p><b>Horsepower:</b> 717 HP</p>
+                <b>Was</b>
+                <p style="text-decoration: line-through; text-decoration-color: rgb(255,72,0);">
+                    Ksh 8,400,000
+                </p>
+                <b>Now</b><br>
+                <b class="text-warning">Ksh 8,000,000</b><br>
+                <span class="badge bg-danger">5% OFF</span>
+                <div class="text-end">
+                    <a href="paymentform.html" class="btn btn-success">Buy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 ">
+        <div class="card shadow">
+            <div class="card-header bg-info text-light">
+                <h6>SRT Demon</h6>
+            </div>
+            <div class="card-body">
+                <img src="images/srt_demon.png" alt="SRT Demon" width="100%" height="300px">
+            </div>
+            <div class="card-footer">
+                <p><b>Horsepower:</b> 840 HP</p>
+                <b>Was</b>
+                <p style="text-decoration: line-through; text-decoration-color: rgb(255,72,0);">
+                    Ksh 9,500,000
+                </p>
+                <b>Now</b><br>
+                <b class="text-warning">Ksh 9,000,000</b><br>
+                <span class="badge bg-danger">5% OFF</span>
+                <div class="text-end">
+                    <a href="paymentform.html" class="btn btn-success">Buy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 ">
+        <div class="card shadow">
+            <div class="card-header bg-info text-light">
+                <h6>SRT Durango</h6>
+            </div>
+            <div class="card-body">
+                <img src="images/srt_durango.png" alt="SRT Durango" width="100%" height="300px">
+            </div>
+            <div class="card-footer">
+                <p><b>Horsepower:</b> 710 HP</p>
+                <b>Was</b>
+                <p style="text-decoration: line-through; text-decoration-color: rgb(255,72,0);">
+                    Ksh 8,800,000
+                </p>
+                <b>Now</b><br>
+                <b class="text-warning">Ksh 8,300,000</b><br>
+                <span class="badge bg-danger">6% OFF</span>
+                <div class="text-end">
+                    <a href="paymentform.html" class="btn btn-success">Buy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="row mt-4">
+    <div class="col-md-4 ">
+        <div class="card shadow">
+            <div class="card-header bg-info text-light">
+                <h6>SRT Charger</h6>
+            </div>
+            <div class="card-body">
+                <img src="images/srt_charger.png" alt="SRT Charger" width="100%" height="300px">
+            </div>
+            <div class="card-footer">
+                <p><b>Horsepower:</b> 797 HP</p>
+                <b>Was</b>
+                <p style="text-decoration: line-through; text-decoration-color: rgb(255,72,0);">
+                    Ksh 8,700,000
+                </p>
+                <b>Now</b><br>
+                <b class="text-warning">Ksh 8,200,000</b><br>
+                <span class="badge bg-danger">6% OFF</span>
+                <div class="text-end">
+                    <a href="paymentform.html" class="btn btn-success">Buy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 ">
+        <div class="card shadow">
+            <div class="card-header bg-info text-light">
+                <h6>SRT Ram 1500</h6>
+            </div>
+            <div class="card-body">
+                <img src="images/srt_ram1500.png" alt="SRT Ram 1500" width="100%" height="300px">
+            </div>
+            <div class="card-footer">
+                <p><b>Horsepower:</b> 702 HP</p>
+                <b>Was</b>
+                <p style="text-decoration: line-through; text-decoration-color: rgb(255,72,0);">
+                    Ksh 9,200,000
+                </p>
+                <b>Now</b><br>
+                <b class="text-warning">Ksh 8,900,000</b><br>
+                <span class="badge bg-danger">3% OFF</span>
+                <div class="text-end">
+                    <a href="paymentform.html" class="btn btn-success">Buy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 ">
+        <div class="card shadow">
+            <div class="card-header bg-info text-light">
+                <h6>SRT Grand Cherokee</h6>
+            </div>
+            <div class="card-body">
+                <img src="images/srt_grandcherokee.png" alt="SRT Grand Cherokee" width="100%" height="300px">
+            </div>
+            <div class="card-footer">
+                <p><b>Horsepower:</b> 707 HP</p>
+                <b>Was</b>
+                <p style="text-decoration: line-through; text-decoration-color: rgb(255,72,0);">
+                    Ksh 8,600,000
+                </p>
+                <b>Now</b><br>
+                <b class="text-warning">Ksh 8,100,000</b><br>
+                <span class="badge bg-danger">6% OFF</span>
+                <div class="text-end">
+                    <a href="paymentform.html" class="btn btn-success">Buy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
